@@ -1,5 +1,11 @@
 # See https://www.dartlang.org/guides/libraries/private-files
 
+android/
+ios/
+linux/
+test/
+web/
+
 # Files and directories created by pub
 .dart_tool/
 .packages
